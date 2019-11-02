@@ -1,6 +1,6 @@
 certifi==2019.6.16
 chardet==3.0.4
-Django==1.11.22
+Django==1.11.23
 django-channels==0.7.0
 idna==2.8
 oauthlib==3.0.2
